@@ -74,4 +74,4 @@ See **[Coming soon]** section
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [MIT Explanation](http://stackoverflow.com/a/11752204/3957754) file for details
